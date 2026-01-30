@@ -1,6 +1,6 @@
 # Listas: Coleção ordenada, mutável e que permite valores duplicados
 # Tuplas: Coleção ordenada, imutável e que permite valores duplicados
-# Dicionários: Coleção não ordenada, mutável e que não permite vlaores duplicados 
+# Dicionários/Mapas: Coleção não ordenada, mutável e que não permite vlaores duplicados 
 
 list = ["teatea", "eg21f"]
 tupla = ("item2", "item97");
