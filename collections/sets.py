@@ -8,3 +8,7 @@ print(type(sets));
 print(sets);
 print(len(sets));
 
+# sets.add()
+# sets.intersection()
+# sets.difference()
+# sets.remove()
